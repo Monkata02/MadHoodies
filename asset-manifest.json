@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MadHoodies/static/css/main.88f1f766.css",
-    "main.js": "/MadHoodies/static/js/main.562f11ab.js",
+    "main.js": "/MadHoodies/static/js/main.722d006c.js",
     "static/media/about-page-1.png": "/MadHoodies/static/media/about-page-1.5705835384d2ebc02e23.png",
     "static/media/info-img.jpg": "/MadHoodies/static/media/info-img.8d550f03ee68ad80d8e7.jpg",
     "static/media/about-page-2.png": "/MadHoodies/static/media/about-page-2.de02fff98840bd4ab8f7.png",
@@ -88,10 +88,10 @@
     "static/media/hoodie-back.jpg": "/MadHoodies/static/media/hoodie-back.3b0ff632de47e84b3539.jpg",
     "index.html": "/MadHoodies/index.html",
     "main.88f1f766.css.map": "/MadHoodies/static/css/main.88f1f766.css.map",
-    "main.562f11ab.js.map": "/MadHoodies/static/js/main.562f11ab.js.map"
+    "main.722d006c.js.map": "/MadHoodies/static/js/main.722d006c.js.map"
   },
   "entrypoints": [
     "static/css/main.88f1f766.css",
-    "static/js/main.562f11ab.js"
+    "static/js/main.722d006c.js"
   ]
 }
